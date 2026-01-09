@@ -15,8 +15,10 @@ This repository contains "Hello, World!" programs in a large variety of programm
 | C | `hello.c` | `gcc hello.c -o hello_c.exe; .\hello_c.exe` |
 | C++ | `hello.cpp` | `g++ hello.cpp -o hello_cpp.exe; .\hello_cpp.exe` |
 | C# | `hello.cs` | `csc hello.cs; .\hello.exe` |
+| Chef | `hello.chef` | `(Requires a Chef interpreter)` |
 | Clojure | `hello.clj` | `clj hello.clj` |
 | COBOL | `hello.cob` | `cobc -x -o hello.exe hello.cob; .\hello.exe` |
+| CoffeeScript | `hello.coffee` | `coffee hello.coffee` |
 | Crystal | `hello.cr` | `crystal run hello.cr` |
 | D | `hello.d` | `dmd hello.d; .\hello.exe` |
 | Dart | `hello.dart` | `dart hello.dart` |
@@ -28,8 +30,11 @@ This repository contains "Hello, World!" programs in a large variety of programm
 | Fortran | `hello.f90` | `gfortran hello.f90 -o hello_f90.exe; .\hello_f90.exe` |
 | Go | `hello.go` | `go run hello.go` |
 | Groovy | `hello.groovy`| `groovy hello.groovy` |
+| Hack | `hello.hack` | `hhvm hello.hack` |
 | Haskell | `hello.hs` | `runghc hello.hs` |
 | HTML | `hello.html` | `(Open in a web browser)` |
+| Idris | `hello.idr` | `idris hello.idr -o hello_idr; ./hello_idr` |
+| INTERCAL | `hello.i` | `(Requires an INTERCAL compiler)` |
 | Java | `hello.java` | `javac hello.java; java Hello` (Note: class name is `Hello`) |
 | JavaScript | `hello.js` | `node hello.js` |
 | Julia | `hello.jl` | `julia hello.jl` |
@@ -62,4 +67,6 @@ This repository contains "Hello, World!" programs in a large variety of programm
 | Vala | `hello.vala` | `valac hello.vala; .\hello.exe` |
 | VB.NET | `hello.vb` | `vbc hello.vb; .\hello.exe` |
 | VBScript | `hello.vbs` | `cscript hello.vbs` |
+| Whitespace | `hello.ws` | `(Requires a Whitespace interpreter)` |
+| XSLT | `hello.xslt` | `(Requires an XSLT processor like xsltproc)` |
 | Zig | `hello.zig` | `zig run hello.zig` |
