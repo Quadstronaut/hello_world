@@ -1,3 +1,9 @@
+;
+; Author: Quadstronaut
+; Date: January 9, 2026
+; Description: Hello World example for a repository.
+;
+
 ; Hello, World! for Windows Console using FASM
 ; To assemble: fasm hello.asm hello.exe
 include 'win32a.inc'

@@ -1,2 +1,7 @@
-REM Hello, World! in BASIC
+'
+' Author: Quadstronaut
+' Date: January 9, 2026
+' Description: Hello World example for a repository.
+'
+
 PRINT "Hello, World!"

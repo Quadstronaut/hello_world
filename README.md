@@ -1,3 +1,8 @@
+<!--
+ Author: Quadstronaut
+ Date: January 9, 2026
+ Description: Hello World example for a repository.
+-->
 # Hello, World! in Every Language
 
 This repository contains "Hello, World!" programs in a large variety of programming languages. The table below lists each language, its corresponding file, and common commands to run or compile the program.
