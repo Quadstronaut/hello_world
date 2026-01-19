@@ -1,3 +1,8 @@
+PLEASE NOTE
+PLEASE NOTE Author: Quadstronaut
+PLEASE NOTE Date: January 9, 2026
+PLEASE NOTE Description: Hello World example for a repository.
+PLEASE NOTE
 DO ,1 <- #13
 PLEASE DO ,1 SUB #1 <- #238
 DO ,1 SUB #2 <- #108
