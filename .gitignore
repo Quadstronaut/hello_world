@@ -1,1 +1,8 @@
 .aider*
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# council run telemetry (local only)
+.claude/council-ledger.jsonl
